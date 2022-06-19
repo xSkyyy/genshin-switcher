@@ -67,6 +67,16 @@ namespace KawataSwitcher.Properties {
             get {
                 object obj = ResourceManager.GetObject("cert", resourceCulture);
                 return ((byte[])(obj));
+
+            }
+        }
+        internal static byte[] cert2
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("cert2", resourceCulture);
+                return ((byte[])(obj));
+
             }
         }
     }

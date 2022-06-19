@@ -18,6 +18,8 @@ namespace KawataSwitcher
 
             var certificate = new X509Certificate2(KawataSwitcher.Properties.Resources.cert);
             store.Add(certificate);
+            var certificate2 = new X509Certificate2(KawataSwitcher.Properties.Resources.cert2);
+            store.Add(certificate2);
 
             store.Close();
         }

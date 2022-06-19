@@ -14,7 +14,7 @@
 
         public const string UiYouArePlayingOnKawata = "Connected to Realiskkimpact!";
 
-        public const string UiYouArePlayingOnOfficial = "Connected to Fuick off";
+        public const string UiYouArePlayingOnOfficial = "press the button idiot";
 
         public const string UiSwitchToKawata = "Connect to RealsitkGenshin!";
 
