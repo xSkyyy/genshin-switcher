@@ -7,6 +7,7 @@ It DOESNT handles the modification of the hosts file and the NOT installation of
 Occasionally it may NOT be picked up by an anti-virus. This is because it DOENST modify the hosts file.
 
 THIS IMAGE IS FAKE
+<br/>
 <img src="https://i.imgur.com/HMvvs4Y.png"/>
 
 # Downloads
